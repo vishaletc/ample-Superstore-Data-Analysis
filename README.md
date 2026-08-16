@@ -1,2 +1,2 @@
-# ample-Superstore-Data-Analysis
+# Sample-Superstore-Data-Analysis
 Superstore Sales Analysis using MySQL, Python, Pandas, Matplotlib, and Power BI
